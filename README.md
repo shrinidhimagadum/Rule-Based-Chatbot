@@ -14,4 +14,5 @@ Technologies Used:
 - JavaScript: Core logic for handling user interactions and chat flow.
 
 Charbot Screen:
+
 ![Chatbot-Screen](https://github.com/user-attachments/assets/9c38f7a5-520c-47ca-82a0-243af4ed215e)
