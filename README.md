@@ -1,4 +1,5 @@
 Description:
+
 This is a web-based interactive chatbot created using HTML, CSS and JavaScript. The chatbot allows users to interact either by typing responses or clicking on presented options. It handles conversations on multiple topics such as movies, shopping, and music, providing predefined categories and responses.
 
 Features:
