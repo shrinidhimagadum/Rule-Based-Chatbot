@@ -436,3 +436,6 @@ function displayInvalidOption() {
 
     chatLog.scrollTop = chatLog.scrollHeight;
 }
+
+
+//Shrinidhi Magadum
